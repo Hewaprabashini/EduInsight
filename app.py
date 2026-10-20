@@ -41,7 +41,6 @@ def make_recommendation(row, pass_mark=40):
 
 st.title("📊 EduInsight")
 st.caption("Smart Student Performance Analytics and Recommendation System")
-st.info("Demonstration app using simulated student data. The dataset contains fictional records and must not be treated as real student information.")
 
 with st.sidebar:
     st.header("Data")
