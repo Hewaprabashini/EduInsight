@@ -140,5 +140,4 @@ with tab4:
     csv = filtered.to_csv(index=False).encode("utf-8")
     st.download_button("Download filtered data as CSV", data=csv, file_name="eduinsight_filtered_data.csv", mime="text/csv")
 
-st.divider()
-st.caption("EduInsight prototype • Synthetic data • Recommendations are educational decision support, not automated diagnoses.")
+
