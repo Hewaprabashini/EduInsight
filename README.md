@@ -1,4 +1,5 @@
 **EduInsight**
+
 Smart Student Performance Analytics and Recommendation System
 
 **##The problem we're solving#**
